@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola Soy Azul White,  y estoy aprendiendo programacion
 
 <!--
 **AzulWhiteDev/AzulWhiteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
